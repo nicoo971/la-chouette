@@ -17,6 +17,9 @@ a:hover {
     text-decoration: none;
     cursor: pointer;
 }
+.keywords{
+    color:black;
+}
 
 #page-loading-blocs-notifaction {
     position: fixed;
